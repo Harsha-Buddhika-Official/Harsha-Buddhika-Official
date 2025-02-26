@@ -45,7 +45,6 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from Sri L
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="mailto:harshabuddhika85@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/harsha-buddhika/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://github.com/HarshaBuddhikaOfficial"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"/></a>
   <a href="https://www.facebook.com/harsha.buddika.5623"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="Facebook"/></a>
