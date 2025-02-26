@@ -6,6 +6,15 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from Sri L
 
 ---
 
+### 🌱 About Me
+
+- 🌱 I’m currently learning **Java, MERN Stack, Python**
+- 🤝 I’m looking for **web development projects**
+- 💬 Ask me about **C, C++, HTML, CSS, JavaScript, PHP, MySQL, Java**
+- 📫 How to reach me: [harshabuddhika85@gmail.com](mailto:harshabuddhika85@gmail.com)
+
+---
+
 ### 🛠 Tech Stack & Tools
 
 <p align="left">
@@ -20,12 +29,23 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from Sri L
 
 ---
 
-### 📫 Contact Me
+### 📚 Currently Learning
 
-- 📧 Email: [harshabuddhika85@gmail.com](mailto:harshabuddhika85@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/harsha-buddhika/)
-- 🌍 [GitHub](https://github.com/HarshaBuddhikaOfficial)
-- 📘 [Facebook](https://www.facebook.com/harsha.buddika.5623)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="mailto:harshabuddhika85@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/harsha-buddhika/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://github.com/HarshaBuddhikaOfficial"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.facebook.com/harsha.buddika.5623"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="Facebook"/></a>
+</p>
 
 ---
 
