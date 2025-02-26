@@ -1,6 +1,6 @@
 # Hi 👋, I'm Harsha Buddhika
 
-### 🚀 Full Stack Developer | UI/UX Designer | Software Engineer
+### 🚀 Full Stack Developer | UI/UX Designer | Software Engineer | Graphic Designer
 
 A passionate **Web Developer, UI/UX Designer, and Software Engineer** from Sri Lanka. Currently, I am an **undergraduate in Computer Science** and always eager to learn and innovate.
 
