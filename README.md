@@ -39,9 +39,14 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from Sri L
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/>
 </p>
 
-
 ---
-
+### 🎯 Skills
+<p align="left">
+  <img src="https://img.icons8.com/color/512/git.png" alt="git" width="50" height="50"/>
+  <img src="https://www.figma.com/community/resource/877724bb-de21-49c5-b59a-48f65c48f210/thumbnail" alt="ui/ux" width="50" height="50"/>
+  <img src="" alt="git" width="50" height="50"/>
+</p>
+---
 ### 📫 Connect with Me
 
 <p align="left">
