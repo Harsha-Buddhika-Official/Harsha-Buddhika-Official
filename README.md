@@ -44,8 +44,8 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from Sri L
 <p align="left">
   <img src="https://img.icons8.com/color/512/git.png" alt="git" width="50" height="50"/>
   <img src="https://static-00.iconduck.com/assets.00/apps-figma-icon-2048x2048-ctjj5ab7.png" alt="ui/ux" width="50" height="50"/>
-  <img src="https://w7.pngwing.com/pngs/548/34/png-transparent-adobe-photoshop-macos-bigsur-icon-thumbnail.png" alt="photoshop" width="50" height="50"/>
-  <img src="https://w7.pngwing.com/pngs/386/452/png-transparent-adobe-illustrator-macos-bigsur-icon-thumbnail.png" alt="illustrator" width="50" height="50"/>
+  <img src="https://brandlogos.net/wp-content/uploads/2022/04/adobe_photoshop-logo-brandlogos.net_.png" alt="photoshop" width="50" height="50"/>
+  <img src="https://download.logo.wine/logo/Adobe_Illustrator/Adobe_Illustrator-Logo.wine.png" alt="illustrator" width="50" height="50"/>
 </p>
 
 ---
