@@ -41,7 +41,7 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from Sri L
 
 ---
 ### 🎯 Skills
-<p align="left">
+<p align="left" padding="5px">
   <img src="https://img.icons8.com/color/512/git.png" alt="git" width="50" height="50"/>
   <img src="https://static-00.iconduck.com/assets.00/apps-figma-icon-2048x2048-ctjj5ab7.png" alt="ui/ux" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/120px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="50" height="50"/>
