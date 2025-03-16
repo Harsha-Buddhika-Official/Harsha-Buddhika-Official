@@ -53,9 +53,9 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from Sri L
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/harsha-buddhika/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://github.com/Harsha-Buddhika-Official"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"/></a>
-  <a href="https://www.facebook.com/harsha.buddika.5623"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" alt="Facebook"/></a>
+  <a href="https://www.linkedin.com/in/harsha-buddhika/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="50" height="50"/></a>
+  <a href="https://github.com/Harsha-Buddhika-Official"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" width="50" height="50"/></a>
+  <a href="https://www.facebook.com/harsha.buddika.5623"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" alt="Facebook" width="50" height="50"/></a>
 </p>
 
 ---
