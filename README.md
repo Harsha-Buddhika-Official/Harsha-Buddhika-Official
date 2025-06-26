@@ -1,8 +1,8 @@
-# Hi 👋, I'm Harsha Buddhika
-
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2RhcnJiOHpzYmQ3YnhuNHE1bXcxb2FsbDRmNWc0bXBvZjA5aXJociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J9HDdEWq7rAs1hu/giphy.gif" alt="Coding GIF" width="400"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2RhcnJiOHpzYmQ3YnhuNHE1bXcxb2FsbDRmNWc0bXBvZjA5aXJociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J9HDdEWq7rAs1hu/giphy.gif" alt="Coding GIF" width="200" />
 </div>
+
+# Hi 👋, I'm Harsha Buddhika
 
 ### 🚀 Full Stack Developer | UI/UX Designer | Software Engineer | Graphic Designer
 
