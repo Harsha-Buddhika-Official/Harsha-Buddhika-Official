@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/myPHsReL2YIAAAAM/hacker.gif" alt="Coding GIF" width="300" style="border-radius: 50%; object-fit: cover;" />
+  <img src="https://media.tenor.com/myPHsReL2YIAAAAM/hacker.gif" alt="Coding GIF" width="300" />
 </div>
 
 <div id="badges" align="center">
