@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2RhcnJiOHpzYmQ3YnhuNHE1bXcxb2FsbDRmNWc0bXBvZjA5aXJociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J9HDdEWq7rAs1hu/giphy.gif" alt="Coding GIF" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding GIF" width="200" />
 </div>
 
 # Hi 👋, I'm Harsha Buddhika
