@@ -1,5 +1,12 @@
 <div align="center">
-  <img src="https://media.tenor.com/myPHsReL2YIAAAAM/hacker.gif" alt="Coding GIF" width="300" />
+  <svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <clipPath id="circle">
+        <circle cx="150" cy="150" r="150"/>
+      </clipPath>
+    </defs>
+    <image href="https://media.tenor.com/myPHsReL2YIAAAAM/hacker.gif" width="300" height="300" clip-path="url(#circle)"/>
+  </svg>
 </div>
 
 <div id="badges" align="center">
