@@ -2,18 +2,12 @@
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding GIF" width="300" />
 </div>
 
-<div id="header" align="center">
-  <img src="https://github.com/DilZhaan/DilZhaan/blob/main/Logo%20Png.png?raw=true" width="25%"/>
-</div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/dilzhaan/">
+  <a href="https://www.linkedin.com/in/harsha-buddhika/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
   </a>
-  <a href="https://www.facebook.com/DilzhanYapa">
+  <a href="https://www.facebook.com/harsha.buddika.5623">
     <img src="https://img.shields.io/badge/FaceBook-red?style=for-the-badge&logo=facebook&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://stackoverflow.com/users/17633900/dilzhan-yapa">
-    <img src="https://img.shields.io/badge/StackOverFlow-blue?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Twitter Badge"/>
   </a>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=DilZhaan&style=flat-square&color=blue" alt=""/>
