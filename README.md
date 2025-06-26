@@ -1,5 +1,9 @@
 # Hi 👋, I'm Harsha Buddhika
 
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2RhcnJiOHpzYmQ3YnhuNHE1bXcxb2FsbDRmNWc0bXBvZjA5aXJociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J9HDdEWq7rAs1hu/giphy.gif" alt="Coding GIF" width="400"/>
+</div>
+
 ### 🚀 Full Stack Developer | UI/UX Designer | Software Engineer | Graphic Designer
 
 A passionate **Web Developer, UI/UX Designer, and Software Engineer** from Sri Lanka. Currently, I am an **undergraduate in Computer Science** and always eager to learn and innovate.
