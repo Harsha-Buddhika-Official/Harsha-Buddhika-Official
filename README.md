@@ -71,13 +71,6 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from Sri L
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harsha-Buddhika-Official&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
-</p>
-
-
 ### 📫 Connect with Me
 
 <p align="left">
