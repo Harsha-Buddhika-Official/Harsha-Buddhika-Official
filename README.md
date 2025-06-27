@@ -1,6 +1,7 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding GIF" width="300" />
-</div>
+</div> -->
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/harsha-buddhika/">
