@@ -29,9 +29,9 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from Sri L
 
 ### 🌱 About Me
 
-- 🌱 I’m currently learning **MongoDB, Express, Node.js, Python, MySQL**
+- 🌱 I’m currently learning **Python**
 - 🤝 I’m looking for **web development projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, React, PHP, Java, C++**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, PHP, Java, C++, MongoDB, Express, Node.js, MySQL**
 - 📫 How to reach me: [harshabuddhika85@gmail.com](mailto:harshabuddhika85@gmail.com)
 
 ---
