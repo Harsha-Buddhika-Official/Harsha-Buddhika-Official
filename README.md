@@ -64,7 +64,7 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from Sri L
 ### 🎯 Skills
 <p align="left">
   <img src="https://img.icons8.com/color/512/git.png" alt="git" width="50" height="50"/>
-  <img src="https://static.vecteezy.com/system/resources/previews/065/386/871/non_2x/figma-logo-icon-figma-app-editable-transparent-background-premium-social-media-design-for-digital-download-free-png.png" alt="ui/ux" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" alt="ui/ux" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/120px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" width="50" height="50"/>
 </p>
