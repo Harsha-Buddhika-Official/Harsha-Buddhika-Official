@@ -69,6 +69,10 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from Sri L
 </p>
 
 ---
+  <p width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsha-Buddhika-Official&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+  </p>
+---
 
 ### 📫 Connect with Me
 
