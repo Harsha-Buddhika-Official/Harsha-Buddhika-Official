@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/FaceBook-red?style=for-the-badge&logo=facebook&logoColor=white" alt="Youtube Badge"/>
   </a>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=Harsha-Buddhika-Official&style=flat-square&color=blue" alt=""/>
+  <!-- <img src="https://komarev.com/ghpvc/?username=Harsha-Buddhika-Official&style=flat-square&color=blue" alt=""/> -->
 </div>
 
 <div align="center">
