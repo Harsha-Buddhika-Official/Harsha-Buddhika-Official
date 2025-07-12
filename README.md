@@ -21,7 +21,9 @@
 
 # Hi 👋, I'm Harsha Buddhika
 
-### 🚀 Full Stack Developer | UI/UX Designer | Software Engineer | Graphic Designer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+Developer;🎨+UI%2FUX+Designer;💻+Software+Engineer;🎨+Graphic+Designer;🔒+Cyber+Security+Enthusiast;🚀+DevOps+Engineer;🔍+Ethical+Hacker" alt="Typing SVG" />
+</p>
 
 A passionate **Web Developer, UI/UX Designer, and Software Engineer** from Sri Lanka. Currently, I am an **undergraduate in Computer Science** and always eager to learn and innovate.
 
