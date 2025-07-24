@@ -51,7 +51,7 @@
 
 ## 🚀 About Me
 
-A passionate **Web Developer, UI/UX Designer, and Software Engineer** from 🇱🇰 Sri Lanka. Currently pursuing my **undergraduate degree in Computer Science** and always eager to learn and innovate.
+A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Developer, DevOps Engineer, Cyber Security Enthusiast and Ethical Hacker** from 🇱🇰 Sri Lanka. Currently pursuing my **undergraduate degree in Computer Science** and always eager to learn and innovate.
 
 ### 🌟 Quick Facts
 - 🔭 I'm currently working on **full-stack web applications** 
