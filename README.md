@@ -22,7 +22,12 @@
 </div>
 
 <div align="center">
-  <im# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hi there, I'm Harsha Buddhika!
+  <h1>
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40"> 
+    <b>Hi there, I'm Harsha Buddhika!</b> 
+    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+  </h1>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+Developer;🎨+UI%2FUX+Designer;💻+Software+Engineer;🎨+Graphic+Designer;🔒+Cyber+Security+Enthusiast;🚀+DevOps+Engineer;🔍+Ethical+Hacker" alt="Typing SVG" />
