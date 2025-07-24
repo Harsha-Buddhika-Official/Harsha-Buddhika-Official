@@ -94,7 +94,7 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from 🇱�
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,git" alt="Design & Tools" />
 </p>
 
-### 🎨 Currently Learning
+### 📚 Currently Learning
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql,python" alt="Design & Tools" />
 </p>
