@@ -40,12 +40,12 @@
 A passionate **Web Developer, UI/UX Designer, and Software Engineer** from 🇱🇰 Sri Lanka. Currently pursuing my **undergraduate degree in Computer Science** and always eager to learn and innovate.
 
 ### 🌟 Quick Facts
-- 🔭 I'm currently working on **full-stack web applications** 
-- 🌱 I'm currently learning **Python & Advanced Web Technologies**
-- 👯 I'm looking to collaborate on **innovative web development projects**
-- 💬 Ask me about **Web Development, UI/UX Design, Software Engineering**
-- ⚡ Fun fact: **I love turning ideas into reality through code!**
-- 📫 How to reach me: **harshabuddhika85@gmail.com**
+🔭 I'm currently working on **full-stack web applications**  <br> <br>
+🌱 I'm currently learning **Python & Advanced Web Technologies** <br> <br>
+👯 I'm looking to collaborate on **innovative web development projects** <br> <br>
+💬 Ask me about **Web Development, UI/UX Design, Software Engineering** <br> <br>
+⚡ Fun fact: **I love turning ideas into reality through code!** <br> <br>
+📫 How to reach me: **harshabuddhika85@gmail.com** <br> <br>
 </div>
 
 <div align="center">
