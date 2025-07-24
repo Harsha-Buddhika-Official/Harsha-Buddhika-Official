@@ -70,7 +70,6 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from Sri L
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/network.png" alt="Networking" width="50" height="50"/>
 </p>
 
 ---
@@ -80,6 +79,7 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from Sri L
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" alt="Figma" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/120px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/network.png" alt="Networking" width="50" height="50"/>
 </p>
 
 ---
