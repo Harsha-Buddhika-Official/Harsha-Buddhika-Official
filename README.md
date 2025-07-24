@@ -168,6 +168,4 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from Sri L
   <p><i>"The best way to predict the future is to create it."</i></p>
   
   **Thanks for visiting my profile! 😊**
-  
-  ![Snake animation](https://github.com/Harsha-Buddhika-Official/Harsha-Buddhika-Official/blob/output/github-contribution-grid-snake.svg)
 </div>
