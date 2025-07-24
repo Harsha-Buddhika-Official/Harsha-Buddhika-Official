@@ -5,9 +5,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+Developer;🎨+UI%2FUX+Designer;💻+Software+Engineer;🎨+Graphic+Designer;🔒+Cyber+Security+Enthusiast;🚀+DevOps+Engineer;🔍+Ethical+Hacker" alt="Typing SVG" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+</div> -->
 
 ## 🚀 About Me
 
@@ -21,7 +21,7 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from 🇱�
 - 👯 I'm looking to collaborate on **innovative web development projects**
 - 💬 Ask me about **Web Development, UI/UX Design, Software Engineering**
 - ⚡ Fun fact: **I love turning ideas into reality through code!**
-- 📫 How to reach me: **harshabuddhika85@gmail.com**eadme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+It's+Harsha+Buddhika;Full+Stack+Developer;UI%2FUX+Designer;Software+Engineer;Welcome+to+my+GitHub!" alt="Greeting" />
+- 📫 How to reach me: **harshabuddhika85@gmail.com**
 </div>
 
 <div align="center">
