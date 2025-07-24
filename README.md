@@ -152,33 +152,14 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from 🇱�
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<!-- Gaming Quote Section - Static Display with All Quotes Available -->
+<!-- Gaming Quote Section - Auto-Changing Random Quote Display -->
 
 ### 🎮 Gaming Quote of the Day
 <div align="center">
-  <div style="background: linear-gradient(135deg, #1a1b27 0%, #24273a 100%); border-radius: 15px; padding: 25px; border: 2px solid #3d4c5f; max-width: 700px; margin: 20px auto;">
-    <blockquote style="margin: 0; font-style: italic; color: #a9b1d6; font-size: 18px; line-height: 1.6; text-align: center;">
-      "Be careful who you trust sergeant. People you know can hurt you the most."
-    </blockquote>
-    <footer style="margin-top: 15px; text-align: center; color: #7aa2f7; font-weight: bold; font-size: 14px;">
-      — Ghost (COD MW2)
-    </footer>
-  </div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=6000&pause=3000&color=A9B1D6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%22Be+careful+who+you+trust+sergeant.+People+you+know+can+hurt+you+the+most.%22;—+Ghost+(COD+MW2);%22I+survived+because+the+fire+inside+me+burned+brighter+than+the+fire+around+me.%22;—+Joshua+Graham+(Fallout%3A+New+Vegas);%22Time+teaches+you+things+you+can't+learn+from+the+books.%22;—+Belerick+(Mobile+Legends);%22Revenge+is+a+fools+game.%22;—+Arthur+Morgan+(Red+Dead+Redemption+2);%22Wake+up+to+reality.+Nothing+ever+goes+as+planned+in+this+world.%22;—+Madara+Uchiha;%22You+either+die+a+hero%2C+or+you+live+long+enough+to+see+yourself+become+the+villain.%22;—+Two-Face;%22It's+human+nature+not+to+realize+the+true+value+of+something%2C+unless+they+lose+it.%22;—+Orochimaru;%22If+you+don't+fight%2C+you+can't+win!%22;—+Eren+Jaeger" alt="Auto-Rotating Gaming Quotes" />
+
 </div>
-
-<!-- Quote Collection for Manual Rotation -->
-<!-- 
-Available Quotes (Copy and paste into the blockquote above):
-
-1. "Be careful who you trust sergeant. People you know can hurt you the most." — Ghost (COD MW2)
-2. "I survived because the fire inside me burned brighter than the fire around me." — Joshua Graham (Fallout: New Vegas)  
-3. "Time teaches you things you can't learn from the books." — Belerick (Mobile Legends)
-4. "Revenge is a fools game." — Arthur Morgan (Red Dead Redemption 2)
-5. "Wake up to reality. Nothing ever goes as planned in this world." — Madara Uchiha
-6. "You either die a hero, or you live long enough to see yourself become the villain" — Two-Face
-7. "It's human nature not to realize the true value of something, unless they lose it." — Orochimaru
-8. "If you don't fight, you can't win!" — Eren Jaeger
--->
 
 <!-- Footer Section - Closing Banner and Final Message -->
 
