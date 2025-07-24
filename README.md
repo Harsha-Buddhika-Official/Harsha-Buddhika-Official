@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="300px" alt="About Me GIF">
 </div>
 
 <div align="center">
@@ -15,6 +15,10 @@
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=Harsha-Buddhika-Official&style=for-the-badge&color=blue" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/Harsha-Buddhika-Official?style=for-the-badge&color=blue" alt="Followers"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <div align="center">
@@ -41,10 +45,6 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from 🇱�
 - 💬 Ask me about **Web Development, UI/UX Design, Software Engineering**
 - ⚡ Fun fact: **I love turning ideas into reality through code!**
 - 📫 How to reach me: **harshabuddhika85@gmail.com**
-</div>
-
-<div align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="300px" alt="About Me GIF">
 </div>
 
 <!-- # Hi 👋, I'm Harsha Buddhika
