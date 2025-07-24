@@ -161,16 +161,16 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from 🇱�
 
 <!-- Footer Section - Closing Banner and Final Message -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%" alt="Footer" />
-</div>
-
 ---
 <div align="center">
   <h3>🔥 Let's Create Something Awesome Together! 🔥</h3>
   <p><i>"The best way to predict the future is to create it."</i></p>
   
   **Thanks for visiting my profile! 😊**
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%" alt="Footer" />
 </div>
 
 <!-- End of README - Thank you for viewing Harsha Buddhika's GitHub Profile! -->
