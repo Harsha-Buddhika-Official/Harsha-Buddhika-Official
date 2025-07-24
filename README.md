@@ -68,12 +68,17 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from 🇱�
 
 ### 🗄️ Databases & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
 </p>
 
 ### 🎨 Design & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,git" alt="Design & Tools" />
+</p>
+
+### 🎨 Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,python" alt="Design & Tools" />
 </p>
 
 </div>
