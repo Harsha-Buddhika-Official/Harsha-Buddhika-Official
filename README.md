@@ -58,22 +58,22 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from 🇱�
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,python,php" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp" alt="Programming Languages" />
 </p>
 
 ### 🚀 Frameworks & Libraries  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind" alt="Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" alt="Frameworks & Libraries" />
 </p>
 
 ### 🗄️ Databases & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="Databases" />
 </p>
 
 ### 🎨 Design & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,git,github,vscode" alt="Design & Tools" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,git" alt="Design & Tools" />
 </p>
 
 </div>
