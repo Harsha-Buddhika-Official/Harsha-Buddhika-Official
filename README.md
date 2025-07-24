@@ -70,6 +70,7 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from Sri L
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/network.png" alt="Networking" width="50" height="50"/>
 </p>
 
 ---
