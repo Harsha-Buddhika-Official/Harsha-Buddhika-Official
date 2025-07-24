@@ -94,9 +94,9 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from 🇱�
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,git" alt="Design & Tools" />
 </p>
 
-### 📚 Currently Learning
+### 🎨 Currently Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,python" alt="Currently Learning" />
+  <img src="https://skillicons.dev/icons?i=postgresql,python" alt="Design & Tools" />
 </p>
 
 </div>
@@ -152,13 +152,11 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from 🇱�
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<!-- Gaming Quote Section - Auto-Changing Random Quote Display -->
+<!-- Random Dev Quote Section - Inspirational Programming Quotes -->
 
-### 🎮 My Favorite Gaming Quotes
+### 💡 Random Dev Quote
 <div align="center">
-  <div style="background: linear-gradient(135deg, #1a1b27 0%, #24273a 100%); border-radius: 15px; padding: 30px 20px; border: 2px solid #3d4c5f; max-width: 700px; margin: 0 auto; word-break: break-word;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=8000&pause=8000&color=36BCF7&center=true&vCenter=true&width=650&height=120&lines=Be+careful+who+you+trust+sergeant.+People+you+know+can+hurt+you+the+most.+-+Ghost+(COD+MW2);I+survived+because+the+fire+inside+me+burned+brighter+than+the+fire+around+me.+-+Joshua+Graham+(Fallout+New+Vegas);Time+teaches+you+things+you+cant+learn+from+the+books.+-+Belerick+(Mobile+Legends);Revenge+is+a+fools+game.+-+Arthur+Morgan+(Red+Dead+Redemption+2);Wake+up+to+reality.+Nothing+ever+goes+as+planned+in+this+world.+-+Madara+Uchiha;You+either+die+a+hero%2C+or+live+long+enough+to+see+yourself+become+the+villain+-+Two-Face;Its+human+nature+not+to+realize+the+true+value+of+something%2C+unless+they+lose+it.+-+Orochimaru;If+you+dont+fight%2C+you+cant+win!+-+Eren+Jaeger" alt="Rotating Gaming Quotes" style="max-width:100%;" />
-  </div>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 <!-- Footer Section - Closing Banner and Final Message -->
