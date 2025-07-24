@@ -47,7 +47,7 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from 🇱�
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-# Hi 👋, I'm Harsha Buddhika
+<!-- # Hi 👋, I'm Harsha Buddhika
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+Developer;🎨+UI%2FUX+Designer;💻+Software+Engineer;🎨+Graphic+Designer;🔒+Cyber+Security+Enthusiast;🚀+DevOps+Engineer;🔍+Ethical+Hacker" alt="Typing SVG" />
@@ -62,7 +62,7 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from Sri L
 - 🌱 I’m currently learning **Python**
 - 🤝 I’m looking for **web development projects**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, PHP, Java, C++, MongoDB, Express, Node.js, MySQL**
-- 📫 How to reach me: [harshabuddhika85@gmail.com](mailto:harshabuddhika85@gmail.com)
+- 📫 How to reach me: [harshabuddhika85@gmail.com](mailto:harshabuddhika85@gmail.com) -->
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
