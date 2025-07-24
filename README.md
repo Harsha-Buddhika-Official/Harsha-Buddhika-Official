@@ -1,6 +1,10 @@
+<!-- Header Section - Profile GIF and Initial Visual Elements -->
+
 <div align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="200px" alt="About Me GIF">
 </div>
+
+<!-- Social Media Badges - LinkedIn, Facebook, Gmail -->
 
 <div align="center">
   <a href="https://www.linkedin.com/in/harsha-buddhika/">
@@ -13,13 +17,19 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <br><br>
+  
+  <!-- Profile Views and Followers Counter -->
   <img src="https://komarev.com/ghpvc/?username=Harsha-Buddhika-Official&style=for-the-badge&color=blue" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/Harsha-Buddhika-Official?style=for-the-badge&color=blue" alt="Followers"/>
 </div>
 
+<!-- Animated Divider -->
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
+<!-- Main Title Section - Name with Animated GIFs -->
 
 <div align="center">
   <h1>
@@ -29,9 +39,13 @@
   </h1>
 </div>
 
+<!-- Animated Typing Text - Role Descriptions -->
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+Developer;🎨+UI%2FUX+Designer;💻+Software+Engineer;🎨+Graphic+Designer;🔒+Cyber+Security+Enthusiast;🚀+DevOps+Engineer;🔍+Ethical+Hacker" alt="Typing SVG" />
 </div>
+
+<!-- About Me Section - Personal Introduction and Quick Facts -->
 
 <div align="center">
 
@@ -48,9 +62,13 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from 🇱�
 - 📫 How to reach me: **harshabuddhika85@gmail.com**
 </div>
 
+<!-- Animated Divider -->
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
+<!-- Tech Stack Section - Programming Languages, Frameworks, Databases, Tools -->
 
 ## 🛠️ Tech Stack & Tools
 
@@ -76,35 +94,44 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from 🇱�
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,git" alt="Design & Tools" />
 </p>
 
-### 🎨 Currently Learning
+### 📚 Currently Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,python" alt="Design & Tools" />
+  <img src="https://skillicons.dev/icons?i=postgresql,python" alt="Currently Learning" />
 </p>
 
 </div>
 
+<!-- Animated Divider -->
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
+<!-- GitHub Trophies Section - Achievement Display -->
 
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Harsha-Buddhika-Official&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
+<!-- GitHub Statistics Section - Stats, Streak, and Top Languages -->
+
 ## 📊 GitHub Statistics
 
 <div align="center">
   <table>
     <tr>
+      <!-- GitHub Stats Card -->
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=Harsha-Buddhika-Official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
       </td>
+      <!-- GitHub Streak Stats -->
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha-Buddhika-Official&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
+      <!-- Top Languages Used -->
       <td colspan="2" align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsha-Buddhika-Official&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
       </td>
@@ -112,19 +139,27 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from 🇱�
   </table>
 </div>
 
+<!-- Activity Graph Section - Contribution Activity Visualization -->
+
 ## 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsha-Buddhika-Official&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
+<!-- Animated Divider -->
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
+<!-- Random Dev Quote Section - Inspirational Programming Quotes -->
 
 ### 💡 Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
+
+<!-- Footer Section - Closing Banner and Final Message -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%" alt="Footer" />
@@ -137,3 +172,5 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from 🇱�
   
   **Thanks for visiting my profile! 😊**
 </div>
+
+<!-- End of README - Thank you for viewing Harsha Buddhika's GitHub Profile! -->
