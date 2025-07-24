@@ -154,11 +154,9 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from 🇱�
 
 <!-- Gaming Quote Section - Auto-Changing Random Quote Display -->
 
-### 🎮 Gaming Quote of the Day
+### 🎮 My Favorite Gaming Quotes
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=6000&pause=3000&color=A9B1D6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%22Be+careful+who+you+trust+sergeant.+People+you+know+can+hurt+you+the+most.%22;—+Ghost+(COD+MW2);%22I+survived+because+the+fire+inside+me+burned+brighter+than+the+fire+around+me.%22;—+Joshua+Graham+(Fallout%3A+New+Vegas);%22Time+teaches+you+things+you+can't+learn+from+the+books.%22;—+Belerick+(Mobile+Legends);%22Revenge+is+a+fools+game.%22;—+Arthur+Morgan+(Red+Dead+Redemption+2);%22Wake+up+to+reality.+Nothing+ever+goes+as+planned+in+this+world.%22;—+Madara+Uchiha;%22You+either+die+a+hero%2C+or+you+live+long+enough+to+see+yourself+become+the+villain.%22;—+Two-Face;%22It's+human+nature+not+to+realize+the+true+value+of+something%2C+unless+they+lose+it.%22;—+Orochimaru;%22If+you+don't+fight%2C+you+can't+win!%22;—+Eren+Jaeger" alt="Auto-Rotating Gaming Quotes" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=8000&pause=4000&color=36BCF7&center=true&vCenter=true&width=900&height=120&lines=Be+careful+who+you+trust+sergeant.+People+you+know+can+hurt+you+the+most.+-+Ghost+(COD+MW2);I+survived+because+the+fire+inside+me+burned+brighter+than+the+fire+around+me.+-+Joshua+Graham+(Fallout%3A+New+Vegas);Time+teaches+you+things+you+can't+learn+from+the+books.+-+Belerick+(Mobile+Legends);Revenge+is+a+fools+game.+-+Arthur+Morgan+(Red+Dead+Redemption+2);Wake+up+to+reality.+Nothing+ever+goes+as+planned+in+this+world.+-+Madara+Uchiha;You+either+die+a+hero%2C+or+live+long+enough+to+see+yourself+become+the+villain+-+Two-Face;It's+human+nature+not+to+realize+the+true+value+of+something%2C+unless+they+lose+it.+-+Orochimaru;If+you+don't+fight%2C+you+can't+win!+-+Eren+Jaeger" alt="Rotating Gaming Quotes" />
 </div>
 
 <!-- Footer Section - Closing Banner and Final Message -->
