@@ -28,13 +28,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+Developer;🎨+UI%2FUX+Designer;💻+Software+Engineer;🎨+Graphic+Designer;🔒+Cyber+Security+Enthusiast;🚀+DevOps+Engineer;🔍+Ethical+Hacker" alt="Typing SVG" />
 </div>
 
-<!-- <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div> -->
-
 ## 🚀 About Me
-
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 A passionate **Web Developer, UI/UX Designer, and Software Engineer** from 🇱🇰 Sri Lanka. Currently pursuing my **undergraduate degree in Computer Science** and always eager to learn and innovate.
 
@@ -46,23 +40,6 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from 🇱�
 - ⚡ Fun fact: **I love turning ideas into reality through code!**
 - 📫 How to reach me: **harshabuddhika85@gmail.com**
 </div>
-
-<!-- # Hi 👋, I'm Harsha Buddhika
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+Developer;🎨+UI%2FUX+Designer;💻+Software+Engineer;🎨+Graphic+Designer;🔒+Cyber+Security+Enthusiast;🚀+DevOps+Engineer;🔍+Ethical+Hacker" alt="Typing SVG" />
-</p>
-
-A passionate **Web Developer, UI/UX Designer, and Software Engineer** from Sri Lanka. Currently, I am an **undergraduate in Computer Science** and always eager to learn and innovate.
-
----
-
-### 🌱 About Me
-
-- 🌱 I’m currently learning **Python**
-- 🤝 I’m looking for **web development projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, React, PHP, Java, C++, MongoDB, Express, Node.js, MySQL**
-- 📫 How to reach me: [harshabuddhika85@gmail.com](mailto:harshabuddhika85@gmail.com) -->
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -126,27 +103,6 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from Sri L
 ## 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsha-Buddhika-Official&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## 🤝 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/harsha-buddhika/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Harsha-Buddhika-Official">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.facebook.com/harsha.buddika.5623">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="mailto:harshabuddhika85@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
 </div>
 
 <div align="center">
