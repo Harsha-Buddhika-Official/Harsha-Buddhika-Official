@@ -156,7 +156,14 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from 🇱�
 
 ### 💡 Random Dev Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <blockquote>
+    <p><b>"Code is like humor. When you have to explain it, it’s bad."</b></p>
+    <p>— Cory House</p>
+  </blockquote>
+  <blockquote>
+    <p><b>"Programs must be written for people to read, and only incidentally for machines to execute."</b></p>
+    <p>— Harold Abelson</p>
+  </blockquote>
 </div>
 
 <!-- Footer Section - Closing Banner and Final Message -->
