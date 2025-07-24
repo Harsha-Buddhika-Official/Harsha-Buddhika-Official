@@ -1,4 +1,23 @@
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/harsha-buddhika/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
+  </a>
+  <a href="https://www.facebook.com/harsha.buddika.5623">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="mailto:harshabuddhika85@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=Harsha-Buddhika-Official&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Harsha-Buddhika-Official?style=for-the-badge&color=blue" alt="Followers"/>
+</div>
+
+<div align="center">
   <im# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hi there, I'm Harsha Buddhika!
 
 <div align="center">
@@ -26,25 +45,6 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from 🇱�
 
 <div align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="300px" alt="About Me GIF">
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/harsha-buddhika/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
-  </a>
-  <a href="https://www.facebook.com/harsha.buddika.5623">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="mailto:harshabuddhika85@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Harsha-Buddhika-Official&style=for-the-badge&color=blue" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Harsha-Buddhika-Official?style=for-the-badge&color=blue" alt="Followers"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <!-- # Hi 👋, I'm Harsha Buddhika
