@@ -1,4 +1,27 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<p align="center" ><img  src = "https://### 💻 Programming Languages
+
+<p align="left">
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+    <br><strong>HTML5</strong>
+  </div>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+    <br><strong>CSS3</strong>
+  </div>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+    <br><strong>JavaScript</strong>
+  </div>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+    <br><strong>Java</strong>
+  </div>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+    <br><strong>C++</strong>
+  </div>
+</p>m/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/harsha-buddhika/">
@@ -75,11 +98,26 @@ A passionate **Web Developer, UI/UX Designer, and Software Engineer** from Sri L
 ---
 ### 🎯 Skills
 <p align="left">
-  <img src="https://img.icons8.com/color/512/git.png" alt="git" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" alt="Figma" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/120px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/network.png" alt="Networking" width="50" height="50"/>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://img.icons8.com/color/512/git.png" alt="git" width="50" height="50"/>
+    <br><strong>Git</strong>
+  </div>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" alt="Figma" width="50" height="50"/>
+    <br><strong>Figma</strong>
+  </div>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/120px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="50" height="50"/>
+    <br><strong>Photoshop</strong>
+  </div>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" width="50" height="50"/>
+    <br><strong>Illustrator</strong>
+  </div>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/network.png" alt="Networking" width="50" height="50"/>
+    <br><strong>Networking</strong>
+  </div>
 </p>
 
 ---
