@@ -130,13 +130,13 @@ A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Deve
         <img src="https://streak-stats.demolab.com/?user=Harsha-Buddhika-Official&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
-
+    <tr>
+      <!-- Top Languages Used -->
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsha-Buddhika-Official&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
   </table>
-</div>
-
-<!-- Top Languages Used - Full Width -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsha-Buddhika-Official&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" width="100%" />
 </div>
 
 <!-- Activity Graph Section - Contribution Activity Visualization -->
