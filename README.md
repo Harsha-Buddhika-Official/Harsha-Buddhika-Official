@@ -89,7 +89,7 @@ A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Deve
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
 </p>
 
-### 🎨 Design & Tools
+### 🎨 Tools & Skills
 <p>
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,git" alt="Design & Tools" />
 </p>
