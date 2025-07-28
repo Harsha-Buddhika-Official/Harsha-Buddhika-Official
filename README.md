@@ -111,9 +111,7 @@ A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Deve
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harsha-Buddhika-Official&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies (Main)" />
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Harsha-Buddhika-Official&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&row=2" alt="GitHub Trophies (Fallback)" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Harsha-Buddhika-Official&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 <!-- GitHub Statistics Section - Stats, Streak, and Top Languages -->
@@ -129,9 +127,7 @@ A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Deve
       </td>
       <!-- GitHub Streak Stats -->
       <td>
-        <img src="https://streak-stats.demolab.com/?user=Harsha-Buddhika-Official&theme=tokyonight&hide_border=true" alt="GitHub Streak (Vercel)" />
-        <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha-Buddhika-Official&theme=tokyonight&hide_border=true" alt="GitHub Streak (Heroku Fallback)" />
+        <img src="https://streak-stats.demolab.com/?user=Harsha-Buddhika-Official&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
