@@ -96,7 +96,7 @@ A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Deve
 
 ### 📚 Currently Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,python,oracle" alt="Currently Learning" />
+  <img src="https://skillicons.dev/icons?i=postgresql,python" alt="Currently Learning" />
 </p>
 
 </div>
