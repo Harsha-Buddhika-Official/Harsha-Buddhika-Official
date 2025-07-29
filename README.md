@@ -127,7 +127,7 @@ A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Deve
       </td>
       <!-- GitHub Streak Stats -->
       <td>
-        <img src="https://streak-stats.demolab.com/?user=Harsha-Buddhika-Official&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha-Buddhika-Official&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
