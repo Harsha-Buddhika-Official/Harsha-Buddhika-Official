@@ -84,11 +84,9 @@ A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Deve
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" alt="Frameworks & Libraries" />
 </p>
 
-### 🗄️ Databases & ☁️ Cloud Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,azure" alt="Database & Cloud Icons" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" />
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,oracle" alt="Databases" />
 </p>
 
 ### 🎨 Tools & Skills
