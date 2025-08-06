@@ -137,9 +137,6 @@ A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Deve
         <h3>🔥 Most Used Languages</h3>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsha-Buddhika-Official&show_icons=true&theme=tokyonight&layout=donut&hide_border=true&langs_count=8&exclude_repo=Harsha-Buddhika-Official" alt="Top Languages Donut" />
         <br><br>
-        <!-- Language Stats with Percentage Bars -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsha-Buddhika-Official&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&langs_count=10&card_width=600" alt="Top Languages Compact" />
-        <br><br>
         <!-- Language Proficiency with Visual Progress -->
         <div align="center">
           <h4>📊 Language Proficiency & Skills</h4>
@@ -181,14 +178,6 @@ A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Deve
           </table>
         </div>
         <br>
-        <!-- Coding Activity & Contributions -->
-        <div align="center">
-          <h4>⏰ Coding Activity</h4>
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harsha-Buddhika-Official&theme=tokyonight" alt="Productive Time" />
-          <br><br>
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harsha-Buddhika-Official&theme=tokyonight" alt="Repos per Language" />
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harsha-Buddhika-Official&theme=tokyonight" alt="Most Commit Language" />
-        </div>
       </td>
     </tr>
   </table>
