@@ -84,9 +84,10 @@ A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Deve
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" alt="Frameworks & Libraries" />
 </p>
 
-### 🗄️ Databases & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
+### 🗄️ Databases & ☁️ Cloud Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database & Cloud Icons" />
 </p>
 
 ### 🎨 Tools & Skills
