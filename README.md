@@ -132,62 +132,9 @@ A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Deve
       </td>
     </tr>
     <tr>
-      <!-- Top Languages Used - Advanced Section -->
+      <!-- Top Languages Used -->
       <td colspan="2" align="center">
-        <h3>🔥 Most Used Languages & Skills</h3>
-        <table align="center" width="100%">
-          <tr>
-            <!-- Left Side - Language Statistics -->
-            <td align="center" width="50%" valign="top">
-              <h4>📊 GitHub Language Stats</h4>
-              <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsha-Buddhika-Official&show_icons=true&theme=tokyonight&layout=donut&hide_border=true&langs_count=8&exclude_repo=Harsha-Buddhika-Official" alt="Top Languages Donut" />
-              <!-- <br><br>
-              <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsha-Buddhika-Official&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&langs_count=10&card_width=400" alt="Top Languages Compact" /> -->
-            </td>
-            <!-- Right Side - Language Proficiency -->
-            <td align="center" width="50%" valign="top">
-              <h4>🎯 Language Proficiency</h4>
-              <table align="center">
-                <tr>
-                  <td align="center" width="120">
-                    <img src="https://skillicons.dev/icons?i=js" width="30"/><br>
-                    <b>JavaScript</b><br>
-                    <img src="https://img.shields.io/badge/90%25-Advanced-brightgreen?style=flat-square" />
-                  </td>
-                  <td align="center" width="120">
-                    <img src="https://skillicons.dev/icons?i=html" width="30"/><br>
-                    <b>HTML/CSS</b><br>
-                    <img src="https://img.shields.io/badge/95%25-Expert-success?style=flat-square" />
-                  </td>
-                </tr>
-                <tr>
-                  <td align="center" width="120">
-                    <img src="https://skillicons.dev/icons?i=java" width="30"/><br>
-                    <b>Java</b><br>
-                    <img src="https://img.shields.io/badge/80%25-Advanced-green?style=flat-square" />
-                  </td>
-                  <td align="center" width="120">
-                    <img src="https://skillicons.dev/icons?i=cpp" width="30"/><br>
-                    <b>C++</b><br>
-                    <img src="https://img.shields.io/badge/75%25-Intermediate-yellow?style=flat-square" />
-                  </td>
-                </tr>
-                <tr>
-                  <td align="center" width="120">
-                    <img src="https://skillicons.dev/icons?i=python" width="30"/><br>
-                    <b>Python</b><br>
-                    <img src="https://img.shields.io/badge/70%25-Intermediate-yellow?style=flat-square" />
-                  </td>
-                  <td align="center" width="120">
-                    <img src="https://skillicons.dev/icons?i=react" width="30"/><br>
-                    <b>React</b><br>
-                    <img src="https://img.shields.io/badge/85%25-Advanced-brightgreen?style=flat-square" />
-                  </td>
-                </tr>
-              </table>
-            </td>
-          </tr>
-        </table>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsha-Buddhika-Official&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
