@@ -141,8 +141,8 @@ A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Deve
             <td align="center" width="50%" valign="top">
               <h4>📊 GitHub Language Stats</h4>
               <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsha-Buddhika-Official&show_icons=true&theme=tokyonight&layout=donut&hide_border=true&langs_count=8&exclude_repo=Harsha-Buddhika-Official" alt="Top Languages Donut" />
-              <br><br>
-              <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsha-Buddhika-Official&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&langs_count=10&card_width=400" alt="Top Languages Compact" />
+              <!-- <br><br>
+              <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsha-Buddhika-Official&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&langs_count=10&card_width=400" alt="Top Languages Compact" /> -->
             </td>
             <!-- Right Side - Language Proficiency -->
             <td align="center" width="50%" valign="top">
