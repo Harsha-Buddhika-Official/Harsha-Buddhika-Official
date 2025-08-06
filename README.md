@@ -132,9 +132,48 @@ A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Deve
       </td>
     </tr>
     <tr>
-      <!-- Top Languages Used -->
+      <!-- Top Languages Used - Advanced Section -->
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsha-Buddhika-Official&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+        <h3>🔥 Most Used Languages</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsha-Buddhika-Official&show_icons=true&theme=tokyonight&layout=donut&hide_border=true&langs_count=8&exclude_repo=Harsha-Buddhika-Official" alt="Top Languages Donut" />
+        <br><br>
+        <!-- Language Stats with Percentage Bars -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsha-Buddhika-Official&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&langs_count=10&card_width=600" alt="Top Languages Compact" />
+        <br><br>
+        <!-- Animated Language Progress Bars -->
+        <div align="center">
+          <h4>📊 Language Proficiency</h4>
+          <table>
+            <tr>
+              <td align="left">JavaScript</td>
+              <td><img src="https://skillicons.dev/icons?i=js" width="20"/></td>
+              <td><img src="https://progress-bar.dev/90/?scale=100&title=Progress&width=200&color=f7df1e" alt="JavaScript Progress"/></td>
+            </tr>
+            <tr>
+              <td align="left">HTML/CSS</td>
+              <td><img src="https://skillicons.dev/icons?i=html,css" width="40"/></td>
+              <td><img src="https://progress-bar.dev/95/?scale=100&title=Progress&width=200&color=e34c26" alt="HTML/CSS Progress"/></td>
+            </tr>
+            <tr>
+              <td align="left">Java</td>
+              <td><img src="https://skillicons.dev/icons?i=java" width="20"/></td>
+              <td><img src="https://progress-bar.dev/80/?scale=100&title=Progress&width=200&color=ed8b00" alt="Java Progress"/></td>
+            </tr>
+            <tr>
+              <td align="left">C++</td>
+              <td><img src="https://skillicons.dev/icons?i=cpp" width="20"/></td>
+              <td><img src="https://progress-bar.dev/75/?scale=100&title=Progress&width=200&color=00599c" alt="C++ Progress"/></td>
+            </tr>
+            <tr>
+              <td align="left">Python</td>
+              <td><img src="https://skillicons.dev/icons?i=python" width="20"/></td>
+              <td><img src="https://progress-bar.dev/70/?scale=100&title=Progress&width=200&color=3776ab" alt="Python Progress"/></td>
+            </tr>
+          </table>
+        </div>
+        <br>
+        <!-- Language Usage Over Time -->
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Harsha-Buddhika-Official&theme=tokyonight&hide_border=true&layout=compact" alt="Wakatime Stats" />
       </td>
     </tr>
   </table>
