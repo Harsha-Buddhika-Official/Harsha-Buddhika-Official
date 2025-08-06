@@ -84,10 +84,9 @@ A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Deve
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" alt="Frameworks & Libraries" />
 </p>
 
-### 🗄️ Databases & ☁️ Cloud Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database & Cloud Icons" />
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
 </p>
 
 ### 🎨 Tools & Skills
@@ -141,40 +140,55 @@ A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Deve
         <!-- Language Stats with Percentage Bars -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsha-Buddhika-Official&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&langs_count=10&card_width=600" alt="Top Languages Compact" />
         <br><br>
-        <!-- Animated Language Progress Bars -->
+        <!-- Language Proficiency with Visual Progress -->
         <div align="center">
-          <h4>📊 Language Proficiency</h4>
-          <table>
+          <h4>📊 Language Proficiency & Skills</h4>
+          <table align="center">
             <tr>
-              <td align="left">JavaScript</td>
-              <td><img src="https://skillicons.dev/icons?i=js" width="20"/></td>
-              <td><img src="https://progress-bar.dev/90/?scale=100&title=Progress&width=200&color=f7df1e" alt="JavaScript Progress"/></td>
+              <td align="center" width="150">
+                <img src="https://skillicons.dev/icons?i=js" width="30"/><br>
+                <b>JavaScript</b><br>
+                <img src="https://img.shields.io/badge/90%25-Advanced-brightgreen?style=flat-square" />
+              </td>
+              <td align="center" width="150">
+                <img src="https://skillicons.dev/icons?i=html" width="30"/><br>
+                <b>HTML/CSS</b><br>
+                <img src="https://img.shields.io/badge/95%25-Expert-success?style=flat-square" />
+              </td>
+              <td align="center" width="150">
+                <img src="https://skillicons.dev/icons?i=java" width="30"/><br>
+                <b>Java</b><br>
+                <img src="https://img.shields.io/badge/80%25-Advanced-green?style=flat-square" />
+              </td>
             </tr>
             <tr>
-              <td align="left">HTML/CSS</td>
-              <td><img src="https://skillicons.dev/icons?i=html,css" width="40"/></td>
-              <td><img src="https://progress-bar.dev/95/?scale=100&title=Progress&width=200&color=e34c26" alt="HTML/CSS Progress"/></td>
-            </tr>
-            <tr>
-              <td align="left">Java</td>
-              <td><img src="https://skillicons.dev/icons?i=java" width="20"/></td>
-              <td><img src="https://progress-bar.dev/80/?scale=100&title=Progress&width=200&color=ed8b00" alt="Java Progress"/></td>
-            </tr>
-            <tr>
-              <td align="left">C++</td>
-              <td><img src="https://skillicons.dev/icons?i=cpp" width="20"/></td>
-              <td><img src="https://progress-bar.dev/75/?scale=100&title=Progress&width=200&color=00599c" alt="C++ Progress"/></td>
-            </tr>
-            <tr>
-              <td align="left">Python</td>
-              <td><img src="https://skillicons.dev/icons?i=python" width="20"/></td>
-              <td><img src="https://progress-bar.dev/70/?scale=100&title=Progress&width=200&color=3776ab" alt="Python Progress"/></td>
+              <td align="center" width="150">
+                <img src="https://skillicons.dev/icons?i=cpp" width="30"/><br>
+                <b>C++</b><br>
+                <img src="https://img.shields.io/badge/75%25-Intermediate-yellow?style=flat-square" />
+              </td>
+              <td align="center" width="150">
+                <img src="https://skillicons.dev/icons?i=python" width="30"/><br>
+                <b>Python</b><br>
+                <img src="https://img.shields.io/badge/70%25-Intermediate-yellow?style=flat-square" />
+              </td>
+              <td align="center" width="150">
+                <img src="https://skillicons.dev/icons?i=react" width="30"/><br>
+                <b>React</b><br>
+                <img src="https://img.shields.io/badge/85%25-Advanced-brightgreen?style=flat-square" />
+              </td>
             </tr>
           </table>
         </div>
         <br>
-        <!-- Language Usage Over Time -->
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Harsha-Buddhika-Official&theme=tokyonight&hide_border=true&layout=compact" alt="Wakatime Stats" />
+        <!-- Coding Activity & Contributions -->
+        <div align="center">
+          <h4>⏰ Coding Activity</h4>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harsha-Buddhika-Official&theme=tokyonight" alt="Productive Time" />
+          <br><br>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harsha-Buddhika-Official&theme=tokyonight" alt="Repos per Language" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harsha-Buddhika-Official&theme=tokyonight" alt="Most Commit Language" />
+        </div>
       </td>
     </tr>
   </table>
