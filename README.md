@@ -42,7 +42,7 @@
 <!-- Animated Typing Text - Role Descriptions -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+Developer;🎨+UI%2FUX+Designer;💻+Software+Engineer;🎨+Graphic+Designer;🔒+Cyber+Security+Enthusiast;🚀+DevOps+Engineer;🔍+Ethical+Hacker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+Developer;🎨+UI%2FUX+Designer;💻+Software+Engineer;🔒+Cyber+Security+Enthusiast;🚀+DevOps+Engineer;🔍+Ethical+Hacker;🎨+Graphic+Designer" alt="Typing SVG" />
 </div>
 
 <!-- About Me Section - Personal Introduction and Quick Facts -->
