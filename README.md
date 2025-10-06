@@ -79,9 +79,9 @@ A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Deve
   <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp" alt="Programming Languages" />
 </p>
 
-### 🚀 Frameworks & Libraries  
+### 🚀 Frameworks & Libraries & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" alt="Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,graphql" alt="Frameworks & Libraries" />
 </p>
 
 ### 🗄️ Databases & Cloud
@@ -96,7 +96,7 @@ A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Deve
 
 ### 📚 Currently Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,python,graphql" alt="Currently Learning" />
+  <img src="https://skillicons.dev/icons?i=postgresql,python" alt="Currently Learning" />
 </p>
 
 </div>
