@@ -82,7 +82,6 @@ A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Deve
 ### 🚀 Frameworks & Libraries & Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,graphql" alt="Frameworks & Libraries" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 </p>
 
 ### 🗄️ Databases & Cloud
