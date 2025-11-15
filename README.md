@@ -79,7 +79,7 @@ A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Deve
   <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp" alt="Programming Languages" />
 </p>
 
-### 🚀 Frameworks & Libraries & Technologies
+### 🚀 Frameworks, Libraries & Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,graphql" alt="Frameworks & Libraries" />
 </p>
