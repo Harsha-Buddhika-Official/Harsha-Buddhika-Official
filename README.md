@@ -86,7 +86,7 @@ A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Deve
 
 ### 🗄️ Databases & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="Databases" />
 </p>
 
 ### 🎨 Tools & Skills
@@ -96,7 +96,7 @@ A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Deve
 
 ### 📚 Currently Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,python" alt="Currently Learning" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Currently Learning" />
 </p>
 
 </div>
