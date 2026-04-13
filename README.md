@@ -81,7 +81,7 @@ A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Deve
 
 ### 🚀 Frameworks, Libraries & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,graphql,postman" alt="Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,graphql" alt="Frameworks & Libraries" />
 </p>
 
 ### 🗄️ Databases & Cloud
@@ -91,7 +91,7 @@ A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Deve
 
 ### 🎨 Tools & Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,git" alt="Design & Tools" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,git,postman" alt="Design & Tools" />
 </p>
 
 ### 📚 Currently Learning
