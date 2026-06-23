@@ -96,7 +96,7 @@ A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Deve
 
 ### 📚 Currently Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Currently Learning" />
+  <img src="https://skillicons.dev/icons?i=python,docker" alt="Currently Learning" />
 </p>
 
 </div>
