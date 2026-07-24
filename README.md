@@ -76,7 +76,7 @@ A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Deve
 
 ### 💻 Languages & Web Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=js,java,cpp,html,css" alt="Languages & Web Technologies" />
+  <img src="https://skillicons.dev/icons?i=js,java,html,css" alt="Languages & Web Technologies" />
 </p>
 
 ### 🚀 Frameworks, Libraries & API Technologies
