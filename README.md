@@ -74,19 +74,19 @@ A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Deve
 
 <div align="center">
 
-### 💻 Programming Languages
+### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,java,python,html,css" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=js,java,python,html,css" alt="Languages" />
 </p>
 
 ### 🎯 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js" alt="Frontend Development" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend Development" />
 </p>
 
 ### 🔧 Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,java,python" alt="Backend Development" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql" alt="Backend Development" />
 </p>
 
 ### 🗄️ Databases
@@ -94,21 +94,20 @@ A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Deve
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="Databases" />
 </p>
 
-### ⚙️ DevOps & Development Tools
+### ⚙️ DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,postman" alt="DevOps & Development Tools" />
+  <img src="https://skillicons.dev/icons?i=git,docker,postman" alt="DevOps & Tools" />
 </p>
 
-### 🎨 Design & UI/UX Tools
+### 🎨 Design
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" alt="Design & UI/UX Tools" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" alt="Design" />
 </p>
 
 ### 📚 Currently Learning
 <p>
   <img src="https://skillicons.dev/icons?i=kubernetes" alt="Currently Learning" />
 </p>
-
 </div>
 
 <!-- Animated Divider -->
