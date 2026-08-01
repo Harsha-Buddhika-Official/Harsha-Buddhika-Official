@@ -104,8 +104,12 @@ A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Deve
   <img src="https://skillicons.dev/icons?i=kubernetes" alt="Currently Learning" />
 </p>
 
-</div>
+<br>
 
+<img src="https://img.shields.io/badge/Always-Learning-blue?style=for-the-badge" alt="Always Learning" />
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-brightgreen?style=for-the-badge" alt="Open to Collaboration" />
+
+</div>
 <!-- Animated Divider -->
 
 <div align="center">
