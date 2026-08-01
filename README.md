@@ -74,14 +74,19 @@ A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Deve
 
 <div align="center">
 
-### 💻 Languages & Web Technologies
+### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,java,html,css,python" alt="Languages & Web Technologies" />
+  <img src="https://skillicons.dev/icons?i=js,java,python,html,css" alt="Programming Languages" />
 </p>
 
-### 🚀 Frameworks, Libraries & API Technologies
+### 🎯 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,graphql" alt="Frameworks, Libraries & API Technologies" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js" alt="Frontend Development" />
+</p>
+
+### 🔧 Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,java,python" alt="Backend Development" />
 </p>
 
 ### 🗄️ Databases
@@ -89,14 +94,14 @@ A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Deve
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="Databases" />
 </p>
 
-### ⚙️ Development & DevOps Tools
+### ⚙️ DevOps & Development Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,postman,docker" alt="Development & DevOps Tools" />
+  <img src="https://skillicons.dev/icons?i=git,docker,postman" alt="DevOps & Development Tools" />
 </p>
 
-### 🎨 Design Tools
+### 🎨 Design & UI/UX Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" alt="Design Tools" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" alt="Design & UI/UX Tools" />
 </p>
 
 ### 📚 Currently Learning
@@ -104,12 +109,8 @@ A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Deve
   <img src="https://skillicons.dev/icons?i=kubernetes" alt="Currently Learning" />
 </p>
 
-<br>
-
-<img src="https://img.shields.io/badge/Always-Learning-blue?style=for-the-badge" alt="Always Learning" />
-<img src="https://img.shields.io/badge/Open%20to-Collaboration-brightgreen?style=for-the-badge" alt="Open to Collaboration" />
-
 </div>
+
 <!-- Animated Divider -->
 
 <div align="center">
