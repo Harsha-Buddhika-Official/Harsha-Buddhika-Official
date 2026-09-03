@@ -106,7 +106,7 @@ A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Deve
 
 ### 📚 Currently Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Currently Learning" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,springboot" alt="Currently Learning" />
 </p>
 </div>
 
