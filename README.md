@@ -55,7 +55,7 @@ A passionate **Full Stack Developer, DevOps Engineer, Cyber Security Enthusiast 
 * 🔭 Building **Full-Stack & Software Engineering Projects**
 * 🌱 Currently exploring **DevOps & Cyber Security**
 * 🤝 Open to **Tech & Open-Source Collaboration**
-* 💬 Ask me about **Software Development & UI/UX**
+* 💬 Ask me about **Web Development & UI/UX**
 * ⚡ **Obsessive learner. Always pushing beyond the edge.**
 * 📫 **[harshabuddhika85@gmail.com](mailto:harshabuddhika85@gmail.com)**
 
