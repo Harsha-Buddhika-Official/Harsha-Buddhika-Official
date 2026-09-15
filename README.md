@@ -127,25 +127,8 @@ A passionate **Full Stack Developer, DevOps Engineer, Cyber Security Enthusiast,
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <table>
-    <tr>
-      <!-- GitHub Stats Card -->
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Harsha-Buddhika-Official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <!-- GitHub Streak Stats -->
-      <td>
-        <img src="https://streak-stats.demolab.com/?user=Harsha-Buddhika-Official&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-        <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha-Buddhika-Official&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> -->
-      </td>
-    </tr>
-    <tr>
-      <!-- Top Languages Used -->
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsha-Buddhika-Official&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsha-Buddhika-Official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsha-Buddhika-Official&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
 </div>
 
 <!-- Activity Graph Section - Contribution Activity Visualization -->
@@ -163,10 +146,10 @@ A passionate **Full Stack Developer, DevOps Engineer, Cyber Security Enthusiast,
 
 <!-- Random Dev Quote Section - Inspirational Programming Quotes -->
 
-### 💡 Random Dev Quote
+<!-- ### 💡 Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
+</div> -->
 
 <!-- Footer Section - Closing Banner and Final Message -->
 
