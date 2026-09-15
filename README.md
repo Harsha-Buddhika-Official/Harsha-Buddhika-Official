@@ -1,5 +1,3 @@
-Header Section - Profile GIF and Initial Visual Elements -->
-
 <div align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="200px" alt="About Me GIF">
 </div>
@@ -25,9 +23,9 @@ Header Section - Profile GIF and Initial Visual Elements -->
 
 <!-- Animated Divider -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+</div> -->
 
 <!-- Main Title Section - Name with Animated GIFs -->
 
