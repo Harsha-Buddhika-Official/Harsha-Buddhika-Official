@@ -40,7 +40,7 @@
 <!-- Animated Typing Text - Role Descriptions -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+Developer;🎨+UI%2FUX+Designer;💻+Software+Engineer;🔒+Cyber+Security+Enthusiast;🚀+DevOps+Engineer;🔍+Ethical+Hacker;🎨+Graphic+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+Developer;🎨+UI%2FUX+Designer;💻+Software+Engineer;🔒+Cyber+Security+Enthusiast;🚀+DevOps+Engineer;" alt="Typing SVG" />
 </div>
 
 <!-- About Me Section - Personal Introduction and Quick Facts -->
@@ -49,7 +49,7 @@
 
 ## 🚀 About Me
 
-A passionate **Full Stack Developer, DevOps Engineer, Cyber Security Enthusiast, Ethical Hacker and UI/UX Designer** from 🇱🇰 Sri Lanka. Currently pursuing my **undergraduate degree in Computer Science** and always eager to learn and innovate.
+A passionate **Full Stack Developer, DevOps Engineer, Cyber Security Enthusiast and UI/UX Designer** from 🇱🇰 Sri Lanka. Currently pursuing my **undergraduate degree in Computer Science** and always eager to learn and innovate.
 
 ### 🌟 Quick Facts
 * 🔭 Building **Full-Stack & Software Engineering Projects**
