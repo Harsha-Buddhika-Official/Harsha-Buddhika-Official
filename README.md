@@ -131,11 +131,8 @@ A passionate **Full Stack Developer, DevOps Engineer, Cyber Security Enthusiast,
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsha-Buddhika-Official&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
 </div>
 
-<!-- Activity Graph Section - Contribution Activity Visualization -->
-
-## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsha-Buddhika-Official&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsha-Buddhika-Official&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%"/>
 </div>
 
 <!-- Animated Divider -->
