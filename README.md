@@ -54,12 +54,13 @@
 A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Developer, DevOps Engineer, Cyber Security Enthusiast and Ethical Hacker** from 🇱🇰 Sri Lanka. Currently pursuing my **undergraduate degree in Computer Science** and always eager to learn and innovate.
 
 ### 🌟 Quick Facts
-- 🔭 I'm currently working on **full-stack web applications** 
-- 🌱 I'm currently learning **Python & Advanced Web Technologies**
-- 👯 I'm looking to collaborate on **innovative web development projects**
-- 💬 Ask me about **Web Development, UI/UX Design, Software Engineering**
-- ⚡ Fun fact: **Be careful about what you teach me — I’m an obsessive learner. I push everything to the edge.**
-- 📫 How to reach me: **harshabuddhika85@gmail.com**
+* 🔭 Building **Full-Stack & Software Engineering Projects**
+* 🌱 Currently exploring **DevOps & Cyber Security**
+* 🤝 Open to **Tech & Open-Source Collaboration**
+* 💬 Ask me about **Software Development & UI/UX**
+* ⚡ **Obsessive learner. Always pushing beyond the edge.**
+* 📫 **[harshabuddhika85@gmail.com](mailto:harshabuddhika85@gmail.com)**
+
 </div>
 
 <!-- Animated Divider -->
