@@ -51,7 +51,7 @@ Header Section - Profile GIF and Initial Visual Elements -->
 
 ## 🚀 About Me
 
-A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Developer, DevOps Engineer, Cyber Security Enthusiast and Ethical Hacker** from 🇱🇰 Sri Lanka. Currently pursuing my **undergraduate degree in Computer Science** and always eager to learn and innovate.
+A passionate **Full Stack Developer, DevOps Engineer, Cyber Security Enthusiast, Ethical Hacker and UI/UX Designer** from 🇱🇰 Sri Lanka. Currently pursuing my **undergraduate degree in Computer Science** and always eager to learn and innovate.
 
 ### 🌟 Quick Facts
 * 🔭 Building **Full-Stack & Software Engineering Projects**
@@ -119,10 +119,10 @@ A passionate **Web Developer, UI/UX Designer, Software Engineer, Full Stack Deve
 
 <!-- GitHub Trophies Section - Achievement Display -->
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Harsha-Buddhika-Official&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
+</div> -->
 
 <!-- GitHub Statistics Section - Stats, Streak, and Top Languages -->
 
