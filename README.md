@@ -49,13 +49,16 @@
 
 ## 🚀 About Me
 
-A passionate **Full Stack Developer, DevOps Engineer, Cyber Security Enthusiast and UI/UX Designer** from 🇱🇰 Sri Lanka. Currently pursuing my **undergraduate degree in Computer Science** and always eager to learn and innovate.
+A passionate **Software Engineer & Full-Stack Developer** from 🇱🇰 Sri Lanka. Currently pursuing my **undergraduate degree in Computer Science**, with a strong interest in building real-world software systems and continuously exploring new technologies.
 
 ### 🌟 Quick Facts
+
 * 🔭 Building **Full-Stack & Software Engineering Projects**
-* 🌱 Currently exploring **DevOps & Cyber Security**
+* 🏗️ Exploring **Backend Engineering, System Design & Scalable Applications**
+* 🌱 Currently learning **DevOps & Cybersecurity**
+* 🧪 Working with **Docker, Testing & CI/CD**
 * 🤝 Open to **Tech & Open-Source Collaboration**
-* 💬 Ask me about **Web Development & UI/UX**
+* 💬 Ask me about **Full-Stack Development, Backend Engineering & Software Architecture**
 * ⚡ **Obsessive learner. Always pushing beyond the edge.**
 * 📫 **[harshabuddhika85@gmail.com](mailto:harshabuddhika85@gmail.com)**
 
