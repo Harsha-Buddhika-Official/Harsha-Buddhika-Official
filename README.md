@@ -49,7 +49,7 @@
 
 ## 🚀 About Me
 
-A passionate **Software Engineer & Full-Stack Developer** from 🇱🇰 Sri Lanka. Currently pursuing my **undergraduate degree in Computer Science**, with a strong interest in building real-world software systems and continuously exploring new technologies.
+A passionate **Software Engineer & Full-Stack Developer** from 🇱🇰 Sri Lanka, with a strong interest in **DevOps & Cybersecurity**. Currently pursuing my **undergraduate degree in Computer Science**, I enjoy building real-world software systems, exploring modern technologies, and continuously improving my skills across **software development, infrastructure, and security**.
 
 ### 🌟 Quick Facts
 
